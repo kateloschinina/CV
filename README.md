@@ -27,33 +27,33 @@ Looking forward to creative and analytically challenging work in a company with 
 
 <br>
 
-**Analytical skills**
+**Analytical skills.**
 *Graduated first from one of the best math schools in Moscow, and then from math faculty of the Moscow State University, proven to provide on of the strongest math education in the world.*
 
-**Fast learner**
+**Fast learner.**
 *I enjoy to dig the problem on my own, and find the most efficient and fast solution as fast as possible. Therefore am very quick in analysing and understanding completely new concepts. Love to learn.*
 
-**Creativity**
+**Creativity.**
 *Am a creative person. Proved by my participation on all creative development levels in misc art-related projects I took part in.*
 
-**Problem solving and perseverance**
+**Problem solving and perseverance.**
 *Am a problem solver, and can't stop until I do everything I can to find the best possible solution. Don't believe in the word "impossible".*
 
-**Attention to details**
+**Attention to details.**
 *Investment banking has an extensive training and afterwards focus on development and maintaining an extraordinary attention to details.*
 
-**Project management and organisational skills**
+**Project management and organisational skills.**
 *Got extensive project management experience from managing multi-billion transactions during my banking career, up to management and organisation of disorganised artists.*
 
-**Communication skills and emotional intelligence**
+**Communication skills and emotional intelligence.**
 *Can communicate and manage people with completely different backgrounds, from artists to bankers. Successfully built communication bridges between artists and developers during my last art project - Analema Group.*
 
-**Software Skills**
+**Software Skills.**
 - *Ruby, HTML and CSS, JavaScript, PhP, WordPress (incl. WooCommerce), ZurbFoundation and Kube frameworks*
 - Familiar with the following: *C, C++, Visual C, Pascal, Assembler, Matlab and R*
 - God of MS Office: *Excel, Powerpoint and Word (used extensively during my banking career)*
 
-**Human Languages**
+**Human Languages.**
 - Russian (mother tongue)
 - English (full professional proficiency)
 
