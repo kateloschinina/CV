@@ -2,22 +2,14 @@
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 </head>
-<style>
-html, body, h1, h2, h3, h4, h5, h6 {
-	font-family: "Raleway", "Open Sans", Helvetica, sans-serif;
-}
-h1 {
-	font-weight: 800;
-    font-size: 48px;
+
+<body>
+<h1 style = "font-size: 48px;
     color: #bbb;
     padding-bottom: 36px;
     border-bottom: 1px solid red;
-}
-
-</style>
-
-<body>
-<h1> Katerina Loschinina </h1>
+    font-family: 'Raleway';
+    font-weight: 700;"> Katerina Loschinina </h1>
 
 
 A sentence about who and what you are.
