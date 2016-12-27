@@ -1,6 +1,30 @@
-## Your Name
+<head>
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+</head>
+<style>
+html, body, h1, h2, h3, h4, h5, h6 {
+	font-family: "Raleway", "Open Sans", Helvetica, sans-serif;
+}
+h1 {
+	font-weight: 800;
+    font-size: 48px;
+    color: #bbb;
+    padding-bottom: 36px;
+    border-bottom: 1px solid red;
+}
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+</style>
+
+<body>
+<h1> Katerina Loschinina </h1>
+
+
+A sentence about who and what you are.
+
+Then a sentence about what you've achieved.
+
+And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
@@ -46,3 +70,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+</body>
