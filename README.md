@@ -1,3 +1,5 @@
+{::nomarkdown}
+
 <head>
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
@@ -17,6 +19,8 @@ A sentence about who and what you are.
 Then a sentence about what you've achieved.
 
 And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+{:/}
 
 ## Skills
 
