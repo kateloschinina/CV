@@ -11,8 +11,8 @@
 After acquiring an extensive experience in M&A Investment Banking and Corporate Finance Advisory working in top tier Investment Banks I realised that I don't really want to do banking for the rest of my life, and started a long journey towards the job of my dreams. During this journey, while working in various extremely exiting art-related projects, I couldn't resist my growing passion to apply my strong analytical skills to coding. Therefore I came back to where I started (taking into account my Computer Science education).
 
 First sign of my destiny was when shortly after quitting my banking job, I had an irresistable desire to reread Brian Kernighan and Dennis Ritchie C Programming Language Book. Since then I carefully tried to cover different areas of development that are currently on the market:
- - First, I studied Graphic Design and Web Development in Open Design School (and was so into all of this, so that graduated with special honors)
- - Then I went through enormous amount of online courses (TreeHouse: iOS dev, Swift, HTML, CSS, PhP and JavaScript; CodeAcademy; Coursera (Big Data and R)
+ - First, I studied Graphic Design and Web Development in Open Design School (and was so into all of this, so that graduated with special honors);
+ - Then I went through enormous amount of online courses (TreeHouse: iOS dev, Swift, HTML, CSS, PhP and JavaScript; CodeAcademy; Coursera (Big Data and R);
  - And thereafter I approached website creation on my own, working on misc websites for my friends.
 
 By that time it was obvious that Web is something I am really passioned about, so that is how the idea to make it my career came to me.
@@ -46,10 +46,10 @@ Looking forward to creative and analytically challenging work in a company with 
 *Got extensive project management experience from managing multi-billion transactions during my banking career, up to management and organisation of disorganised artists.*
 
 **Communication skills and emotional intelligence**
-*Can communicate and manage people with completely different backgrounds, from artists to bankers. Successfully build communication bridges between artists and developers during my last art project - Analema Group.*
+*Can communicate and manage people with completely different backgrounds, from artists to bankers. Successfully built communication bridges between artists and developers during my last art project - Analema Group.*
 
 **Software Skills**
-- *Ruby, HTML and CSS, JavaScript, PhP, WordPress (incl. WooCommerce), ZurbFoundation, Kube frameworks)*
+- *Ruby, HTML and CSS, JavaScript, PhP, WordPress (incl. WooCommerce), ZurbFoundation and Kube frameworks*
 - Familiar with the following: *C, C++, Visual C, Pascal, Assembler, Matlab and R*
 - God of MS Office: *Excel, Powerpoint and Word (used extensively during my banking career)*
 
@@ -95,7 +95,7 @@ Looking forward to add more exciting projects to my portfolio within Makers Acad
 **Lomonosov Moscow State University** (2003 to 2008)    
 *Dept. of Computational Mathematics and Cybernetics*
 
- - Areas of research: *Optimal Control Theory, Financial Mathematics, Mathematical Methods in Economics, Statistical Analysis, Methods of Optimisation, Risk Theory and Quantitative Financial Models.*
+ - Areas of focus: *Optimal Control Theory, Financial Mathematics, Mathematical Methods in Economics, Statistical Analysis, Methods of Optimisation, Risk Theory and Quantitative Financial Models.*
  - Studied programming languages *C, C++, Visual C, Pascal, Assembler, Matlab and R*, and the theory of numerical analysis, algorithms and code developing.
 
 
