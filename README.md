@@ -1,10 +1,10 @@
 <br>
 
-# <center> **Katerina Loschinina** </center>
+<h1 align = "center"> **Katerina Loschinina** </h1>
 
 <br>
 
-<center> [LinkedIn](https://uk.linkedin.com/in/ekaterina-loshchinina-61141735) | [Skills](https://github.com/kateloschinina/CV#Skills) | [Projects](https://github.com/kateloschinina/CV#Projects) | [Education](https://github.com/kateloschinina/CV#Education) | [Interests](https://github.com/kateloschinina/CV#Interests) </center>
+<p align = "center"> [LinkedIn](https://uk.linkedin.com/in/ekaterina-loshchinina-61141735) | [Skills](https://github.com/kateloschinina/CV#Skills) | [Projects](https://github.com/kateloschinina/CV#Projects) | [Education](https://github.com/kateloschinina/CV#Education) | [Interests](https://github.com/kateloschinina/CV#Interests) </p>
 
 <br>
 
