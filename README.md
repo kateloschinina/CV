@@ -1,17 +1,13 @@
-{::nomarkdown}
+<br>
 
-<head>
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
-</head>
+# <center> **Katerina Loschinina** </center>
 
-<body>
-<h1 style = "font-size: 48px;
-    color: #bbb;
-    padding-bottom: 36px;
-    border-bottom: 1px solid red;
-    font-family: 'Raleway';
-    font-weight: 700;"> Katerina Loschinina </h1>
+<br>
+
+<center> [LinkedIn](https://uk.linkedin.com/in/ekaterina-loshchinina-61141735) | [Skills](https://github.com/kateloschinina/CV#Skills) | [Projects](https://github.com/kateloschinina/CV#Projects) | [Education](https://github.com/kateloschinina/CV#Education) | [Interests](https://github.com/kateloschinina/CV#Interests) </center>
+
+<br>
+
 
 
 A sentence about who and what you are.
@@ -20,9 +16,7 @@ Then a sentence about what you've achieved.
 
 And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-{:/}
-
-## Skills
+> ## Skills
 
 #### This Skill
 
@@ -41,9 +35,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+> ## Projects
 
-#### Makers Academy (start_date to end_date)
+
+
+| Summary                                                                                                                         | My role                                                                                          | Technologies                                          |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+|                                                       |   |                            |
+|                                                                         |                   |                          |
+|                                                                       |           |               |
+|  |       |  |
+
+Looking forward to add more exciting projects to my portfolio within Makers Academy course!
+
+
+> ## Education
+
+#### Makers Academy (November 2016 to March 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -52,7 +60,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Lomonosov Moscow State University
+##### *Dept. of Applyied Mathematics and Cybernatics*
+###### (2003 to 2008)
 
 - Subject, any specialisms
 - Grade
@@ -60,11 +70,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-## Experience
+> ## Experience
+
+#### Full-time employment
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
 
-</body>
+#### Other projects and freelance
