@@ -48,7 +48,7 @@
 *Demonstrated ability to communicate and manage people with completely different backgrounds, from artists to bankers. Successfully built communication bridges between artists and developers during my last art project - Analema Group. Organising networking events for cross-cultural collaboration ([7 of Clubs](https://sevenofclubs.github.io/)).*
 
 **Software Skills.**
-- During Makers Academy course: *Ruby, Ruby on Rails, Sinatra, Rspec and Jasmine, Capybara, JavaScript and node.js, PostgreSQL, React, Bootstrap, Chai and Mocha*
+- During Makers Academy course: *Ruby, Ruby on Rails, Sinatra, Rspec and Jasmine, Capybara, JavaScript, Node.js and React, PostgreSQL, Chrome Extension, Bootstrap, Chai and Mocha*
 - Prior Makers: *HTML and CSS, PhP, WordPress (incl. WooCommerce), ZurbFoundation and Kube frameworks*
 - Studied in University: *C, C++, Visual C, Pascal, Assembler, Matlab and R*
 
