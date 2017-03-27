@@ -17,7 +17,7 @@
 
  <br>
 
- TOC -  [Skills](https://github.com/kateloschinina/CV#skills) | [Projects](https://github.com/kateloschinina/CV#projects) | [Education](https://github.com/kateloschinina/CV#education) | [Interests](https://github.com/kateloschinina/CV#interests) |
+[Skills](https://github.com/kateloschinina/CV#skills) | [Projects](https://github.com/kateloschinina/CV#projects) | [Education](https://github.com/kateloschinina/CV#education) | [Interests](https://github.com/kateloschinina/CV#interests) |
  [Experience](https://github.com/kateloschinina/CV#experience)
 
   <br>
@@ -27,10 +27,10 @@
 <br>
 
 **Analytical skills.**
-*Graduated from one of the best math schools in Moscow, and then from math faculty of Moscow State University, proven to provide one of the strongest math education in the world.*
+*Graduated from one of the best math schools in Moscow, and then from applied math faculty of Moscow State University, that is proven to provide one of the strongest math education in the world.*
 
 **Learner.**
-*Love to learn, and to find the most efficient and fast solution. Am very quick in analysing and understanding completely new concepts, and am a knowledge worker.*
+*Love to learn, and to find the most efficient and fast solutions. Am very quick in analysing and understanding completely new concepts, and am a knowledge worker.*
 
 **Creativity.**
 *Participated on all creative development levels in misc art-related projects.*
@@ -62,14 +62,21 @@
 
 <br>
 
-**In Makers Academy**
-[TBD]
+**In Makers Academy:**
+
+| Project                                                                                                                        | When                                                                                          | Technologies used                                          | Live                                          
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| [DevLinQ](https://github.com/pedrocastanheira77/devlinq) | Final project, week 11-12  | Chrome Extension structure, Javascript, Node.js, React, Browserify, HTML & CSS; Tested with Selenium, Sinon, Mocha, Chai; React app deployed to Heroku | You can upload extension locally (see README), or [see standalone app](https://devlinq.herokuapp.com/)  |
+| [HabiChat](https://github.com/laurenrosie/HabiChat) | Week 9 | Framework: Ruby on Rails 5.0.1, Devise; Database: PostgreSQL; Front End: HTML/CSS, Bootstrap, JQuery; Testing: RSpec, Capybara, Coveralls;  External Services: Calendar: SimpleCalendar, Chat: WebSockets (ActionCable); Deployed to Heroku. | [link](https://habichat.herokuapp.com/) |
+| [Bowling](https://github.com/kateloschinina/bowling-challenge) | Week 7 | Javascript, Node.js, jQuery; Front End: HTML/CSS, Bootstrap; Testing: Jasmine | [link](https://kateloschinina-bowling.herokuapp.com/) |
+| [RockPaperScissors](https://github.com/kateloschinina/rps-challenge) | Week 3 | Ruby, Sinatra, Rake, RSpec, Capybara, HTML&CSS | n/a |
+
 
 **Prior makers:**
 
-| Summary                                                                                                                         | My role                                                                                          | Technologies                                          |
+| Project                                                                                                                        | My role                                                                                          | Technologies                                          |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Uprising Software | Branding, Logo and Website Design and Realisation  | HTML, CSS, PhP, JavaScript, based on Kube Framework |
+| [Uprising Software](https://github.com/kateloschinina/CV.git) | Branding, Logo and Website Design and Realisation  | HTML, CSS, PhP, JavaScript, based on Kube Framework |
 | [TriSpace](http://trispace.cc/) | Website Design and Realisation  | HTML, CSS, JavaScript, based on Zurb Foundation Framework |
 
 <br>
@@ -116,7 +123,7 @@
 
 **Philosophy.** Solipsism, philosophy of religion and Asian philosophical traditions.
 
-**Yoga.** Any, but especially Jivamukti
+**Yoga.** Any, but especially Jivamukti.
 
 **Generally curious about everything interesting.** Love to find out what other people do, and get broad understanding of the wide scope of reality.
 
