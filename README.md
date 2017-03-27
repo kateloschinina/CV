@@ -76,7 +76,7 @@
 
 | Project                                                                                                                        | My role                                                                                          | Technologies                                          |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| [Uprising Software](https://github.com/kateloschinina/CV.git) | Branding, Logo and Website Design and Realisation  | HTML, CSS, PhP, JavaScript, based on Kube Framework |
+| [Uprising Software](https://kateloschinina.github.io/UprisingSoftwareWebsite) | Branding, Logo and Website Design and Realisation  | HTML, CSS, PhP, JavaScript, based on Kube Framework |
 | [TriSpace](http://trispace.cc/) | Website Design and Realisation  | HTML, CSS, JavaScript, based on Zurb Foundation Framework |
 
 <br>
