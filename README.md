@@ -114,7 +114,7 @@
 
 <br>
 
-### The Ear of the Universe
+### [The Ear of the Universe](https://www.youtube.com/watch?v=LQGKn2CyUkA)
 
 A multi-sensory, participatory generative art installation; visual-musical instrument that responds to touch with sound and light patterns; created by a team of London-based professionals, where Katerina is a leader and a JavaScript dev.
 
@@ -200,5 +200,5 @@ The idea was to build a very simple website in a way so that the artist herself 
 
 **Analema Group** (Dec 2015 - current)   
 *Organisation, management, PR and marketing, as well as managing finance and dealing with funding matters.*
- - Analema Group is a London based Europe-wide arts collective, a group of artists, researchers, programmers and sound designers. Analema Group aims to create new experiences on the inter- section between art and technology.
+ - Analema Group is a London based Europe-wide arts collective, a group of artists, researchers, programmers and sound designers. Analema Group aims to create new experiences on the intersection between art and technology.
  
