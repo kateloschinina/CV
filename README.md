@@ -47,7 +47,7 @@
 **Problem solving and perseverance.**
 *Am a problem solver, and usually do not stop until I can find the best possible solution. Don't believe in the word "impossible".*
 
-**Attention to details.**
+**Attention to detail.**
 *Investment banking has an extensive training and continuous focus on development and maintaining an extraordinary attention to details.*
 
 **Project management and organisational skills.**
