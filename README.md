@@ -85,7 +85,7 @@
  - The MyFT Daily Digest emails were all sent at the same hour, which created a disproportionate load to all systems. Katerina architected a personalisation mechanism that was adjusting send times based on when the user usually opens the email. While doing that Katerina improved the running time of the Daily Digest pipeline from 36 hours to c.20 minutes.
  - Katerina created a Python API layer for a Machine Learning initiative that was exploring personalisation of topics recommended to users.
 
-**B2B Enterprise Tools** - ***a platform for the Financial Times' corporate clients**
+**B2B Enterprise Tools** - ***a platform for the Financial Times' corporate clients***
  - Created, deployed and incorporated into ft.com micro-services system a suite of applications allowing corporate FT clients to manage their content licenses.
  - Developed 2/5 core apps for the service with server-side rendered React and core experience.
  - Built a pipeline optimising the breakdown of the license usage per user for further analytics.
@@ -201,27 +201,4 @@ The idea was to build a very simple website in a way so that the artist herself 
 **Analema Group** (Dec 2015 - current)   
 *Organisation, management, PR and marketing, as well as managing finance and dealing with funding matters.*
  - Analema Group is a London based Europe-wide arts collective, a group of artists, researchers, programmers and sound designers. Analema Group aims to create new experiences on the inter- section between art and technology.
-
- <br>
-
-> ## Old tech-related Projects
-
-<br>
-
-**In Makers Academy:**
-
-| Project                                                                                                                        | When                                                                                          | Technologies used                                          | Live                                          
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| [DevLinQ](https://github.com/pedrocastanheira77/devlinq) | Final project, week 11-12  | Chrome Extension structure, Javascript, Node.js, React, Browserify, HTML & CSS; Tested with Selenium, Sinon, Mocha, Chai; React app deployed to Heroku | You can upload extension locally (see README), or [see standalone app](https://devlinq.herokuapp.com/)  |
-| [HabiChat](https://github.com/laurenrosie/HabiChat) | Week 9 | Framework: Ruby on Rails 5.0.1, Devise; Database: PostgreSQL; Front End: HTML/CSS, Bootstrap, JQuery; Testing: RSpec, Capybara, Coveralls;  External Services: Calendar: SimpleCalendar, Chat: WebSockets (ActionCable); Deployed to Heroku. | [link](https://habichat.herokuapp.com/) |
-| [Bowling](https://github.com/kateloschinina/bowling-challenge) | Week 7 | Javascript, Node.js, jQuery; Front End: HTML/CSS, Bootstrap; Testing: Jasmine | [link](https://kateloschinina-bowling.herokuapp.com/) |
-| [RockPaperScissors](https://github.com/kateloschinina/rps-challenge) | Week 3 | Ruby, Sinatra, Rake, RSpec, Capybara, HTML&CSS | n/a |
-
-
-**Prior makers:**
-
-| Project                                                                                                                        | My role                                                                                          | Technologies                                          |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| [Uprising Software](https://kateloschinina.github.io/UprisingSoftwareWebsite) | Branding, Logo and Website Design and Realisation  | HTML, CSS, PhP, JavaScript, based on Kube Framework |
-| [TriSpace](http://trispace.cc/) | Website Design and Realisation  | HTML, CSS, JavaScript, based on Zurb Foundation Framework |
-
+ 
