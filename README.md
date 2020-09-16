@@ -14,8 +14,7 @@
 
  <br>
 
-[Skills](https://github.com/kateloschinina/CV#skills) | [Projects](https://github.com/kateloschinina/CV#projects) | [Education](https://github.com/kateloschinina/CV#education) | [Interests](https://github.com/kateloschinina/CV#interests) |
- [Experience](https://github.com/kateloschinina/CV#experience)
+[Skills](https://github.com/kateloschinina/CV#skills) | [Experience](https://github.com/kateloschinina/CV#experience) | [Tech-related Projects](https://github.com/kateloschinina/CV#tech-related-projects) | [Education](https://github.com/kateloschinina/CV#education) | [Interests](https://github.com/kateloschinina/CV#interests) |
 
   <br>
 
@@ -109,7 +108,11 @@
 *Deutsche Bank Department, Quality Assurance Specialist*
  - Worked on the development of the intranet software for Deutsche Bank.
 
-## Tech-related Projects
+<br>
+
+> ## Tech-related Projects
+
+<br>
 
 ### The Ear of the Universe
 
@@ -138,6 +141,8 @@ The idea was to build a very simple website in a way so that the artist herself 
  - Created a JSON based very basic CMS and explained the artist how to apply change to the JSON files on GitHub.
 
  [Link to github](https://github.com/kateloschinina/KiRa-Re)
+
+<br>
 
 > ## Education
 
